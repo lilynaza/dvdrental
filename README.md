@@ -44,6 +44,12 @@ I shall be answering the following question.
 ![2r](https://user-images.githubusercontent.com/78624637/178350442-4d7e0c45-bb7c-4cdc-b833-85945c82c0c3.PNG)
 
 3. Which customers have not rented any movies so far.
+
+![3](https://user-images.githubusercontent.com/78624637/178354380-2a6a6a6c-c0c5-4ba2-892e-2c350a23eb16.PNG)
+
+* Insight
+
+All customer have rented a movie.
 4. Display each movie and the number of times it got rented.
 
 ![4](https://user-images.githubusercontent.com/78624637/178350687-2b5a8311-f803-4556-bd4c-787197bf199d.PNG)
