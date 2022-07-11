@@ -63,6 +63,10 @@ I shall be answering the following question.
 
 6. Display the names of actors that acted in more than 20 movies.
 
+* Insight
+
+![6r](https://user-images.githubusercontent.com/78624637/178351702-5ce4dbef-6786-45de-9d2d-41f92f1b95b0.PNG)
+
 
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
 8. Display the movies offered in store 1 and not offered in store 2.
