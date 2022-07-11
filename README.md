@@ -145,6 +145,8 @@ All customer have rented a movie.
 
 ![13r](https://user-images.githubusercontent.com/78624637/178352903-83b7f27d-23c1-4587-a4ee-7bdd39bea884.PNG)
 
+PG-13 movie were the most rented movie.
+
 14. Show the profit of each of the stores 1 and 2.
 
 
