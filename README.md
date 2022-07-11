@@ -171,3 +171,7 @@ All customer have rented a movie.
 
 ![16r](https://user-images.githubusercontent.com/78624637/178353077-ebbecc4b-0db0-465c-a1c0-9d4d85e1a89f.PNG)
 
+# Conclusion
+
+In this project, I analyzed data from a DVD rental company. To find insights about the customers and their preference
+
