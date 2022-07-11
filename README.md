@@ -63,15 +63,44 @@ I shall be answering the following question.
 
 6. Display the names of actors that acted in more than 20 movies.
 
+![6](https://user-images.githubusercontent.com/78624637/178351934-db7ba275-9030-4a24-a636-a296b5582474.PNG)
+
+
 * Insight
 
 ![6r](https://user-images.githubusercontent.com/78624637/178351702-5ce4dbef-6786-45de-9d2d-41f92f1b95b0.PNG)
 
 
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
+
+![7](https://user-images.githubusercontent.com/78624637/178351956-c65c151f-e9b7-4871-abfe-911df53ec336.PNG)
+
+* Insight
+
+![7r](https://user-images.githubusercontent.com/78624637/178351990-1fff9665-8cac-4fa6-893e-814d80dbcf3b.PNG)
+
 8. Display the movies offered in store 1 and not offered in store 2.
+
+![8](https://user-images.githubusercontent.com/78624637/178352028-1034a355-e6bd-41db-a5dd-64bdb68bd921.PNG)
+
+* Insight
+
+![8r](https://user-images.githubusercontent.com/78624637/178352055-ff4a6c54-cb03-4da3-acea-6c93df5a9926.PNG)
+
 9. Display the movies offered for rent in any of the two store 1 and 2
+
+![9](https://user-images.githubusercontent.com/78624637/178352080-71f428a0-af42-4106-b21b-7f510eed6197.PNG)
+
+* Insight
+
+![9r](https://user-images.githubusercontent.com/78624637/178352101-90a62eb8-a69c-44b3-900a-a1e37e3d36b2.PNG)
+
 10. Display the title of the movies offered at both store at same time.
+
+![10](https://user-images.githubusercontent.com/78624637/178352126-1d7d061c-dfbe-46e4-83d8-bcc513739b90.PNG)
+
+*Insight
+![10r](https://user-images.githubusercontent.com/78624637/178352174-08168fe7-3e52-4fef-80df-db1791acad3d.PNG)
 11. Display the most rented movies in the store with store_id 1
 12. How many movies are not offered for rent in the stores yet. There are two stores only 1 and 2
 13. Show the number of rented movies under each rating.
