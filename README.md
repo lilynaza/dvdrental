@@ -54,6 +54,8 @@ I shall be answering the following question.
 * Insight
 
 All customer have rented a movie.
+
+
 4. Display each movie and the number of times it got rented.
 
 ![4](https://user-images.githubusercontent.com/78624637/178350687-2b5a8311-f803-4556-bd4c-787197bf199d.PNG)
