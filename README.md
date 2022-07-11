@@ -1,6 +1,10 @@
 # Introduction
 I recentenly completed SQL courses on data camp from intoduction level to the advanced level. For a personal project, I decided to analyze the database for a DVD rental company. Let’s take a look at a case study detailing my process and output.
 
+# Problem statement
+
+I went to conduct exploratory data analysis using sql to know the renting attitude of the customers who rent movies from the company
+
 # I began by taking a look at the dataset. 
 The data set have 15 tables.
 Below are the different tables and a brief description of them.
