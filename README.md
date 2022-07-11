@@ -44,6 +44,10 @@ I shall be answering the following question.
 
 3. Which customers have not rented any movies so far.
 4. Display each movie and the number of times it got rented.
+
+![4](https://user-images.githubusercontent.com/78624637/178350687-2b5a8311-f803-4556-bd4c-787197bf199d.PNG)
+
+ *Insight
 5. Show the first name, last name and the number of movie each actor acted in.
 6. Display the names of actors that acted in more than 20 movies.
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
