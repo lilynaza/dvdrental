@@ -29,6 +29,8 @@ I analyzed this database using PostgreSQL.
 I shall be answering the following question.
 1. What is the movie(s) that was rented the most.
 ![1](https://user-images.githubusercontent.com/78624637/178349823-babcad61-cf31-41d1-9e66-4bf0fca5ee26.PNG)
+* Insight
+![1r](https://user-images.githubusercontent.com/78624637/178349997-02658143-cfc3-423e-9d5f-853cab8d8f72.PNG)
 2. Which movies have been rented so far.
 3. Which customers have not rented any movies so far.
 4. Display each movie and the number of times it got rented.
