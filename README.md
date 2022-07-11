@@ -51,7 +51,12 @@ I shall be answering the following question.
  * Insight
  
  ![4r](https://user-images.githubusercontent.com/78624637/178350939-c4a86894-c1b9-4117-b875-91ef5ff199e3.PNG)
+ 
 5. Show the first name, last name and the number of movie each actor acted in.
+
+![5](https://user-images.githubusercontent.com/78624637/178351171-68b4a092-17a8-4462-a6e5-d9c45f06ddfd.PNG)
+
+* Insight
 6. Display the names of actors that acted in more than 20 movies.
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
 8. Display the movies offered in store 1 and not offered in store 2.
