@@ -57,7 +57,13 @@ I shall be answering the following question.
 ![5](https://user-images.githubusercontent.com/78624637/178351171-68b4a092-17a8-4462-a6e5-d9c45f06ddfd.PNG)
 
 * Insight
+
+![5r](https://user-images.githubusercontent.com/78624637/178351460-4237f14e-04e5-40b7-88c3-8290be9680c3.PNG)
+
+
 6. Display the names of actors that acted in more than 20 movies.
+
+
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
 8. Display the movies offered in store 1 and not offered in store 2.
 9. Display the movies offered for rent in any of the two store 1 and 2
