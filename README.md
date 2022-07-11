@@ -179,5 +179,5 @@ PG-13 movie were the most rented movie.
 
 # Conclusion
 
-In this project, I analyzed data from a DVD rental company. To find insights about the customers and their preference
+In this project, I analyzed data from a DVD rental company. To find insights about the customers and their preference. Customers who visted the store rented mostly movies rated PG
 
