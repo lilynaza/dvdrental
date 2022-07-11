@@ -100,11 +100,51 @@ I shall be answering the following question.
 ![10](https://user-images.githubusercontent.com/78624637/178352126-1d7d061c-dfbe-46e4-83d8-bcc513739b90.PNG)
 
 *Insight
+
 ![10r](https://user-images.githubusercontent.com/78624637/178352174-08168fe7-3e52-4fef-80df-db1791acad3d.PNG)
+
 11. Display the most rented movies in the store with store_id 1
+
+![11](https://user-images.githubusercontent.com/78624637/178352724-7573ba90-21f3-4a5f-99bd-e4d8c005861a.PNG)
+ 
+ * Insight 
+ 
+ ![11r](https://user-images.githubusercontent.com/78624637/178352765-2243b0c7-5fc3-460f-87dd-ea3c84fa553c.PNG)
+
+
 12. How many movies are not offered for rent in the stores yet. There are two stores only 1 and 2
+
+![12](https://user-images.githubusercontent.com/78624637/178352788-fc6c06c1-411b-496a-af09-a2338d123170.PNG)
+
+* Insight
+
+![12r](https://user-images.githubusercontent.com/78624637/178352842-d8d7b357-3548-4473-aa9b-c429fe56a902.PNG)
+
 13. Show the number of rented movies under each rating.
+
+![13](https://user-images.githubusercontent.com/78624637/178352880-94f8ae45-6171-4856-8f2a-8086b679c3b4.PNG)
+
+* Insight
+
+![13r](https://user-images.githubusercontent.com/78624637/178352903-83b7f27d-23c1-4587-a4ee-7bdd39bea884.PNG)
+
 14. Show the profit of each of the stores 1 and 2.
+
+![14](https://user-images.githubusercontent.com/78624637/178352935-0bed37a3-2e37-44ae-bb85-53af81b12912.PNG)
+
+* Insight
+![14r](https://user-images.githubusercontent.com/78624637/178352964-2eeae562-a110-41b8-8165-e1ff470bd63d.PNG)
+
 15. What is the name of the customer who made the highest total payment.
+
+![15](https://user-images.githubusercontent.com/78624637/178352993-42767559-807b-42a0-930a-d716434a9927.PNG)
+
+* Insight
+![15r](https://user-images.githubusercontent.com/78624637/178353029-f2eab501-5d8e-4176-a638-14d1cf55654a.PNG)
+
 16. Which movies have not been rented so far.
+![16](https://user-images.githubusercontent.com/78624637/178353061-c476f874-f325-443f-897e-435a0b1b962c.PNG)
+
+* Insight
+![16r](https://user-images.githubusercontent.com/78624637/178353077-ebbecc4b-0db0-465c-a1c0-9d4d85e1a89f.PNG)
 
