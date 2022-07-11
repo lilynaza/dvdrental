@@ -28,10 +28,15 @@ I analyzed this database using PostgreSQL.
 # Objective & Goals
 I shall be answering the following question.
 1. What is the movie(s) that was rented the most.
+
 ![1](https://user-images.githubusercontent.com/78624637/178349823-babcad61-cf31-41d1-9e66-4bf0fca5ee26.PNG)
+
 * Insight
+
 ![1r](https://user-images.githubusercontent.com/78624637/178349997-02658143-cfc3-423e-9d5f-853cab8d8f72.PNG)
 2. Which movies have been rented so far.
+
+![2](https://user-images.githubusercontent.com/78624637/178350215-bb433c90-59cf-454a-89c4-3ba1534118d7.PNG)
 3. Which customers have not rented any movies so far.
 4. Display each movie and the number of times it got rented.
 5. Show the first name, last name and the number of movie each actor acted in.
