@@ -37,6 +37,11 @@ I shall be answering the following question.
 2. Which movies have been rented so far.
 
 ![2](https://user-images.githubusercontent.com/78624637/178350215-bb433c90-59cf-454a-89c4-3ba1534118d7.PNG)
+
+* Insight
+
+![2r](https://user-images.githubusercontent.com/78624637/178350442-4d7e0c45-bb7c-4cdc-b833-85945c82c0c3.PNG)
+
 3. Which customers have not rented any movies so far.
 4. Display each movie and the number of times it got rented.
 5. Show the first name, last name and the number of movie each actor acted in.
