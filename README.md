@@ -5,6 +5,9 @@ I recentenly completed SQL courses on data camp from intoduction level to the ad
 The data set have 15 tables.
 Below are the different tables and a brief description of them.
 
+# Schema
+![Rental_Schema](https://user-images.githubusercontent.com/78624637/178349512-e5d50905-9b77-4535-819b-a89277ac2a1a.PNG)
+
 * actor — contains actors data including first name and last name.
 * film — contains films data such as title, release year, length, rating, etc.
 * film_actor — contains the relationships between films and actors.
