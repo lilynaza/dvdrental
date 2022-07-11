@@ -34,6 +34,7 @@ I shall be answering the following question.
 * Insight
 
 ![1r](https://user-images.githubusercontent.com/78624637/178349997-02658143-cfc3-423e-9d5f-853cab8d8f72.PNG)
+
 2. Which movies have been rented so far.
 
 ![2](https://user-images.githubusercontent.com/78624637/178350215-bb433c90-59cf-454a-89c4-3ba1534118d7.PNG)
@@ -47,7 +48,9 @@ I shall be answering the following question.
 
 ![4](https://user-images.githubusercontent.com/78624637/178350687-2b5a8311-f803-4556-bd4c-787197bf199d.PNG)
 
- *Insight
+ * Insight
+ 
+ ![4r](https://user-images.githubusercontent.com/78624637/178350939-c4a86894-c1b9-4117-b875-91ef5ff199e3.PNG)
 5. Show the first name, last name and the number of movie each actor acted in.
 6. Display the names of actors that acted in more than 20 movies.
 7. For all the movies rated "PG" show me the movies and the number of times it go rented.
