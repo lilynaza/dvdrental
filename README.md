@@ -34,7 +34,7 @@ I shall be answering the following question.
 8. Display the movies offered in store 1 and not offered in store 2.
 9. Display the movies offered for rent in any of the two store 1 and 2
 10. Display the title of the movies offered at both store at same time.
-11. Display the movies title for the most rented movies in the store with store_id 1
+11. Display the most rented movies in the store with store_id 1
 12. How many movies are not offered for rent in the stores yet. There are two stores only 1 and 2
 13. Show the number of rented movies under each rating.
 14. Show the profit of each of the stores 1 and 2.
